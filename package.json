@@ -2,9 +2,9 @@
   "name": "gif-search",
   "version": "1.0.0",
   "description": "GIF Search Application",
-  "main": "index.html",
+  "main": "public/index.html",
   "scripts": {
-    "start": "serve ."
+    "start": "serve public"
   },
   "dependencies": {
     "serve": "^14.2.1"
